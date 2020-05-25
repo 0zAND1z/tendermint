@@ -327,6 +327,6 @@ as ABCI applications.
 
 The following diagram is Tendermint in a (technical) nutshell. [See here
 for high resolution
-version](https://github.com/mobfoundry/hackatom/blob/master/tminfo.pdf).
+version](https://github.com/songhungbk/hackatom/blob/master/tminfo.pdf).
 
 ![](../imgs/tm-transaction-flow.png)
